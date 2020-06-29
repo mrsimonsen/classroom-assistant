@@ -37,10 +37,10 @@ export const moveToApplicationsFolder = () => {
 
 const userOptedOut = () => {
   const store = new Store()
-  return store.get("classroom-assistant-opt-out-move")
+  return store.get("github-classroom-assistant-opt-out-move")
 }
 
 const optOutReminder = () => {
   const store = new Store()
-  store.set("classroom-assistant-opt-out-move", true)
+  store.set("github-classroom-assistant-opt-out-move", true)
 }

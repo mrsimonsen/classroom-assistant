@@ -15,8 +15,8 @@ const fetchGAUser = () => {
   }
 
   const store = new Store()
-  const userId = store.get("classroom-assistant-ga-user-id") || uuid()
-  store.set("classroom-assistant-ga-user-id", userId)
+  const userId = store.get("github-classroom-assistant-ga-user-id") || uuid()
+  store.set("github-classroom-assistant-ga-user-id", userId)
 
   return ua(gaID, userId)
 }

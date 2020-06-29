@@ -5,7 +5,7 @@ A local version is simple to set up:
 
 ```sh
 git clone https://github.com/education/classroom-assistant
-cd classroom-assistant
+cd github-classroom-assistant
 script/setup
 ```
 

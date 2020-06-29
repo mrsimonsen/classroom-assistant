@@ -29,7 +29,7 @@ module.exports = {
       appleId: process.env.APPLE_ID,
       appleIdPassword: process.env.APPLE_ID_PASSWORD
     },
-    executableName: "classroom-assistant",
+    executableName: "github-classroom-assistant",
     icon: "./app/resources/icon.icns",
     protocols: [
       {
@@ -45,9 +45,9 @@ module.exports = {
     {
       name: "@electron-forge/maker-squirrel",
       config: {
-        name: "classroom-assistant",
-        title: "classroom-assistant",
-        exe: "classroom-assistant.exe",
+        name: "github-classroom-assistant",
+        title: "github-classroom-assistant",
+        exe: "github-classroom-assistant.exe",
         iconUrl: "https://raw.githubusercontent.com/education/classroom-assistant/master/app/resources/icon.ico",
         setupIcon: "./app/resources/icon.ico",
         loadingGif: "./app/resources/images/win32-installer-splash.gif",
@@ -82,7 +82,7 @@ module.exports = {
       config: {
         repository: {
           owner: "education",
-          name: "classroom-assistant"
+          name: "github-classroom-assistant"
         },
         prerelease: true
       }
@@ -90,7 +90,7 @@ module.exports = {
   ],
   windowsStoreConfig: {
     packageName: "",
-    name: "classroom-assistant"
+    name: "github-classroom-assistant"
   },
   hooks: {
     generateAssets: async () => {

@@ -6,7 +6,7 @@ The command we use to set up the custom protocol handler for GitHub Classroom As
 
 You can try setting it manually by running:
 
-`xdg-settings set default-url-scheme-handler x-github-classroom classroom-assistant.desktop`
+`xdg-settings set default-url-scheme-handler x-github-classroom github-classroom-assistant.desktop`
 
 For XFCE based desktops, `xdg-settings` does not seem to work, you have to manually set up the protocol handling for the application to work.
 

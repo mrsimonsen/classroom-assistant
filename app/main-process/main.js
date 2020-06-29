@@ -88,7 +88,7 @@ const loadPopulatePage = (assignmentURL) => {
 const setInstanceProtocolHandler = async () => {
   if (process.platform === "linux") {
     const command = "xdg-settings set default-url-scheme-handler"
-    const packageName = "classroom-assistant.desktop"
+    const packageName = "github-classroom-assistant.desktop"
 
     // TODO: Figure out bug in setAsDefaultProtocolClient on Linux
     // Set Protocol Handler on Linux manually because of bug in Electron

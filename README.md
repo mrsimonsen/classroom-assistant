@@ -6,7 +6,7 @@ GitHub Classroom Assistant is a cross-platform desktop application to help you g
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://standardjs.com)
 
-![alt text](./app/resources/images/classroom-assistant-downloading.png "Logo Title Text 1")
+![alt text](./app/resources/images/github-classroom-assistant-downloading.png "Logo Title Text 1")
 
 ## Where can I get it?
 
