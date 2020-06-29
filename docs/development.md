@@ -17,7 +17,7 @@ script/run
 
 ## Building
 
-You can build Classroom Assistant into executables by running
+You can build GitHub Classroom Assistant into executables by running
 
 ```
 script/package

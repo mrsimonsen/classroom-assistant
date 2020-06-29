@@ -23,7 +23,7 @@ const IndexPage = ({ loginUser }) => (
       <div className="col-7 index-right-pane">
         <div className="index-right-pane-content">
           <h1 className="text-center">
-            <b>GitHub</b> Classroom Assistant
+            <b>GitHub</b> GitHub Classroom Assistant
           </h1>
           <h4 className="text-center mt-2">
             Download GitHub Classroom assignments for grading with the click of

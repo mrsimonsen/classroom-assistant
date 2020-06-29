@@ -33,7 +33,7 @@ module.exports = {
     icon: "./app/resources/icon.icns",
     protocols: [
       {
-        name: "Classroom Assistant",
+        name: "GitHub Classroom Assistant",
         schemes: ["x-github-classroom"],
       },
     ],

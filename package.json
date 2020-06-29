@@ -1,6 +1,6 @@
 {
   "name": "classroom-assistant",
-  "productName": "Classroom Assistant",
+  "productName": "GitHub Classroom Assistant",
   "version": "2.0.1",
   "description": "Desktop helper for GitHub Classroom",
   "main": "./.webpack/main",

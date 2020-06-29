@@ -1,6 +1,6 @@
 # GitHub Classroom Assistant Documentation
 
-Classroom Assistant is a cross-platform desktop application to help you get student repositories for grading.
+GitHub Classroom Assistant is a cross-platform desktop application to help you get student repositories for grading.
 
 ## Platforms
 GitHub Classroom Assistant has been officially tested on these platforms. There are [known issues](./linux-issues.md) on some distributions on Linux that we welcome contributions for.
@@ -11,7 +11,7 @@ GitHub Classroom Assistant has been officially tested on these platforms. There 
 - Ubuntu 16.04
 
 ## Development
-Instructions for setting up Classroom Assistant for development can be found [here](./development.md)
+Instructions for setting up GitHub Classroom Assistant for development can be found [here](./development.md)
 
 ## Process
 - [Deploying](./deploying.md)

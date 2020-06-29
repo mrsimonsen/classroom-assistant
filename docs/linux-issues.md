@@ -2,7 +2,7 @@
 There are known issues with some distributions of Linux, we recommend using Ubuntu 18.04 or 16.04
 
 ## Protocol Handler
-The command we use to set up the custom protocol handler for Classroom Assistant fails on some distros.
+The command we use to set up the custom protocol handler for GitHub Classroom Assistant fails on some distros.
 
 You can try setting it manually by running:
 
